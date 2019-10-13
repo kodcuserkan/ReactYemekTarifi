@@ -1,3 +1,6 @@
+Kendinize ait APP_ID ve APP_KEY inizi oluşturmak için edamam.com dan kayıt yapmanız gerekmektedir.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
